@@ -42,4 +42,6 @@ public class MyRecyclerView extends RecyclerView.Adapter<MyRecyclerView.MyViewHo
         }
     }
 
+    // testing commit for another user
+
 }
